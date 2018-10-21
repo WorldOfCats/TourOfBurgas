@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="main">#0277bd</color>
+
+    <color name="dark">#3f51b5</color>
+
+    <color name="tan_background">#e1f5fe</color>
+
+    <color name="landmarks_category">#81d4fa</color>
+
+    <color name="lesure_category">#81d4fa</color>
+
+    <color name="nature_category">#81d4fa</color>
+
+    <color name="shopping_category">#81d4fa</color>
+
+</resources>

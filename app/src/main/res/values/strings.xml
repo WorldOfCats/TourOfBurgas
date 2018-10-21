@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">TOUR of BURGAS</string>
+
+    <string name="landmarks">LANDMARKS</string>
+
+    <string name="shopping">SHOPPING</string>
+
+    <string name="nature">NATURE</string>
+
+    <string name="lesure">LESURE</string>
+
+    <string name="bridge_text">Bridge of Burgas is the most noticeable landmark in the town. It provide great view of the cost by putting you in the middle of the sea.
+        The feeling there is hard to express.</string>
+
+    <string name="clock_text">Very simple but very popular location. The clock is a start of many friendly meetings. It is special street item for a lot of local people.    </string>
+
+    <string name="port_text">The port is relatively recently renovated and opened for public.
+        It gets slowly developed and promises to be one of the most interesting places in town, combining both past and present.</string>
+
+    <string name="station_text">The train station have pleasant classical architecture. It is the end and the beginning of many journeys </string>
+
+    <string name="plaza_text">First ever mall is near the city entrances. A lot of sports wear is to be found here, among many other commodities. </string>
+
+    <string name="galeria_text">The second and most modern mall tha provides all kind of shops. The last floor holds the most popular film theatre in town. </string>
+
+    <string name="anastasia_text">Sent Anastasia island is a place with ton of history. It is one of the very few islands on bulgarian coast.</string>
+
+    <string name="beach_text">The Bugas beach provides huge exellent quality sand sstrip that is full of pople during the summer. It is one of the most valuable city attributes</string>
+
+    <string name="mud_text"> The mud bath are another place that is very popular during the summer. It is free of charge and many conveniences are created for the tourists. According to some the mud have healing properties.  </string>
+
+    <string name="park_text">The Sea Garden is a vast coast park that supplements the sea going expirience. It is well preserved and maintained. </string>
+
+    <string name="barbossa_text">Barbosa bar... I dont know why Barbosa bar, but some friends keep draging me there and it is always a lot of fun.  </string>
+
+
+</resources>
